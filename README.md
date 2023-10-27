@@ -1,2 +1,0 @@
-# jcjc.github.io
-tipcal
